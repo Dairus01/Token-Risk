@@ -231,7 +231,7 @@ if contract.strip() and chains:
         rs, flag_list, verdict = score(holders)
 
         
-        st.subheader(f"{token['symbol']} on {ch} — {token.get('name','')}")
+        st.subheader(f"{token['symbol']} on {ch} : {token.get('name','')}")
 
         raw_supply    = int(token["total_supply"])
         decimals      = token["decimals"]
