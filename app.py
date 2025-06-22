@@ -166,7 +166,7 @@ with st.expander("ℹ️ About this dashboard", expanded=False):
         ">
           <h2>About This Dashboard</h2>
 
-          <p><strong>Token Risk Screener</strong> lets you analyze ERC-20 tokens across one or more EVM chains simultaneously.  
+          <p><strong>Token Risk Screener</strong> lets you analyze ERC-20 tokens across 57 EVM chains simultaneously.  
           Enter a token contract address and select any number of chains to compare their holder distributions, market data, and risk scores side-by-side.</p>
 
           <h3>Risk score (0–100)</h3>
