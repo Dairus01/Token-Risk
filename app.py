@@ -322,7 +322,7 @@ if contract.strip() and chains:
         st.plotly_chart(fig, use_container_width=True)
 
         
-        with st.expander("🔗 Full address legend", expanded=False):
+        with st.expander("Full address", expanded=False):
             st.dataframe(
                 df_chart[["label","wallet"]]
                 .rename(columns={"label":"Short","wallet":"Full Address"})
