@@ -253,7 +253,7 @@ if contract.strip() and chains:
         st.write(f"**Market Cap:** ${market_cap:,.2f}")
 
         if token.get("logo"):
-            st.image(token["logo"], width=150)
+            st.image(token["logo"], width=100)
 
 
         col1, col2 = st.columns(2)
