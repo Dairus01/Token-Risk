@@ -10,7 +10,6 @@ A powerful tool for crypto investors, developers, and auditors to assess the ris
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 [![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Enabled-ff4b4b.svg)](https://streamlit.io/)
 
 
 
