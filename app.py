@@ -10,6 +10,8 @@ HEADERS = {"X-Sim-Api-Key": SIM_API_KEY}
 
 getcontext().prec = 50
 
+# list of chains
+
 CHAIN_ID_MAP = {
   "arbitrum": 42161,
   "astar": 592,
